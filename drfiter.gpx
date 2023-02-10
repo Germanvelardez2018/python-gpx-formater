@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+ 
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="byHand" version="1.1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+    <wpt lat="-34.576657" lon="-58.516697">
+    <ele>67.800</ele>
+    <time>2005-05-16T11:49:06Z</time>
+    <name>Drifter</name>
+    <sym>I.N.T.I</sym>
+  </wpt>
+    
+    <wpt lat="-34.576657" lon="-58.519197">
+    <ele>67.800</ele>
+    <time>2005-05-16T11:49:06Z</time>
+    <name>Drifter</name>
+    <sym>I.N.T.I</sym>
+  </wpt>
+    
+    <wpt lat="-34.578057" lon="-58.522197">
+    <ele>67.800</ele>
+    <time>2005-05-16T11:49:06Z</time>
+    <name>Drifter</name>
+    <sym>I.N.T.I</sym>
+  </wpt>
+    
+    <wpt lat="-34.578157" lon="-58.525767">
+    <ele>67.800</ele>
+    <time>2005-05-16T11:49:06Z</time>
+    <name>Drifter</name>
+    <sym>I.N.T.I</sym>
+  </wpt>
+    
+    <wpt lat="" lon="">
+    <ele></ele>
+    <time>2005-05-16T11:49:06Z</time>
+    <name>Drifter</name>
+    <sym>I.N.T.I</sym>
+  </wpt>
+    
+</gpx>

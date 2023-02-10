@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+ 
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="byHand" version="1.1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    {% for nmea in nmea_list%}
+    <wpt lat="{{nmea[1]}}" lon="{{nmea[2]}}">
+    <ele>{{nmea[3]}}</ele>
+    <time>2005-05-16T11:49:06Z</time>
+    <name>{{t}}</name>
+    <sym>{{st}}</sym>
+  </wpt>
+    {%endfor%}
+</gpx>
